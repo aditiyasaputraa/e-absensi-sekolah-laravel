@@ -23,20 +23,6 @@ Sistem Informasi Absensi Siswa berbasis web yang dikembangkan menggunakan Larave
 * Chart.js
 * DomPDF
 
-## Screenshot
-
-### Dashboard
-
-(Tambahkan screenshot dashboard di sini)
-
-### Data Siswa
-
-(Tambahkan screenshot data siswa di sini)
-
-### Rekap Absensi
-
-(Tambahkan screenshot rekap absensi di sini)
-
 ## Author
 
 Aditiya Saputra
